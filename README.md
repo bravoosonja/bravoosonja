@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my portfolio website<br>👯 I’m looking to collaborate on anything!<br>🌱 I’m currently learning Vue.js<br>
+👯 I’m looking to collaborate on anything!
 
 
 ## 🌐 Socials:
